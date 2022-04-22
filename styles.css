@@ -1,0 +1,10 @@
+#buscador {background-color: rgb(223, 215, 205);
+border-radius: 3px; border: 2px solid;
+}
+h2 {font-family: "Lucida Console", "Courier New", monospace;
+    font-weight:bold;
+font-size: 50px;}
+.iconmovie {height: 50px;}
+#btn {margin-bottom: 10px; margin-left: 110px;}
+#col2 {background-color: aqua;
+} 
